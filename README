@@ -1,1 +1,0 @@
-Simply creates a keyboard shortcut (Alt + Shift + Tab #) to toggle audio sources in tabs 1-4. Tested with Youtube, SoundCloud, anything with a single instance of an audio or video tag. Unreliably, a straight document queryselector for those that dynamically generate HTMLAudioElements or use HTML5 Canvas

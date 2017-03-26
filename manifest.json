@@ -2,7 +2,7 @@
   "name": "AudioTabToggler",
   "manifest_version": 2,
   "version": "1.0",
-  "description": "Simply creates a keyboard shortcut (Alt + Shift + Tab #) to toggle audio sources in tabs 1-4. Tested with Youtube, SoundCloud, Pandora, anything with a single instance of an audio or video tag.",
+  "description": "Simply creates a keyboard shortcut (Alt + Shift + Tab # on Mac, Ctrl + Shift + Tab # on PC) to toggle audio sources in tabs 1-4. Tested with Youtube, SoundCloud, Pandora, anything with a single instance of an audio or video tag.",
   "background": {
     "persistent": false,
     "scripts": ["background.js"]
