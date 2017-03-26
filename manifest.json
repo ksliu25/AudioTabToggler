@@ -13,6 +13,10 @@
     "http://*/",
     "https://*/"
   ],
+  "browser_action": {
+      "default_title": "Audio Tab Toggler",
+      "default_icon": "favicon-16x16.png"
+  },
   "commands": {
     "toggle-audio-tab-1": {
       "suggested_key": {
