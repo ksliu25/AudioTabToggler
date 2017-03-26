@@ -15,7 +15,8 @@
   ],
   "browser_action": {
       "default_title": "Audio Tab Toggler",
-      "default_icon": "favicon-16x16.png"
+      "default_icon": "favicon-16x16.png",
+      "default_popup": "popup.html"
   },
   "commands": {
     "toggle-audio-tab-1": {
